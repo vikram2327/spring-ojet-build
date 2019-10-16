@@ -1,0 +1,1 @@
+define([],function(){return new function(){this.connected=function(){},this.disconnected=function(){},this.transitionCompleted=function(){}}});
